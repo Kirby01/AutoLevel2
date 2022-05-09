@@ -1,2 +1,3 @@
 # AutoLevel2-VST3-Juce
-Compressor.
+Compressor.<br>
+BusEd can be used on for bus compression.
