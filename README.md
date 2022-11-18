@@ -1,4 +1,4 @@
 # AutoLevel2-VST3-Juce
 Compressor.<br>
-Version 1.1 current release. <br>
-Version 1.3 new version.
+Version 1.1. <br>
+Version 1.3 latest release.
