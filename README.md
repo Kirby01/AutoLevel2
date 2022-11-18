@@ -2,3 +2,4 @@
 Compressor.<br>
 Version 1.1 current release. <br>
 Version 1.2 testing. 
+Version 1.3 testing. 
