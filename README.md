@@ -2,4 +2,5 @@
 Compressor.<br>
 Version 1.1. <br>
 Version 1.41 <br>
+Version 1.5 
 
