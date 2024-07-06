@@ -1,1 +1,1 @@
-Tested on Electric Bass. 
+Tested on Electric Bass, dsp synths.
