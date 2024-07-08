@@ -1,1 +1,1 @@
-PDC Program Dependent Compression for Electric Bass - Testing.
+PDC Program Dependent Compression for Electric Bass. 
