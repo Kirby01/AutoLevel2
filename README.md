@@ -1,1 +1,1 @@
-PDC Program Dependent Compression. Tested on Electric Bass and DSP Synths. 
+PDC Program Dependent Compression. For Electric Bass. 
