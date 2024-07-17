@@ -1,1 +1,2 @@
-PDC Program Dependent Compression. For Electric Bass. No Latency.
+PDC Program Dependent Compression. No Latency.<br>
+Todo: update to new version.
