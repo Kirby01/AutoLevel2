@@ -1,2 +1,2 @@
-PDC Program Dependent Compression. Suit Bass Guitar, some softsynths.
+PDC Program Dependent Compression for Bass Guitar.
 
