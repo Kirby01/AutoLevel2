@@ -1,3 +1,3 @@
 PDC Program Dependent Compression for Bass Guitar.
-<br>Todo release update...
+
 
