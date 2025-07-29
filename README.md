@@ -1,4 +1,4 @@
-PDC Program Dependent Compression<br>
+Tuned For Bass Guitar. May release with more controls later.
 
 
 
