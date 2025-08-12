@@ -1,6 +1,5 @@
 To Use set input at level where compression starts
 
-Audio examples on website https://harmoniousrecords.com/MyMusic/<br>
 Gui versions available at https://www.harmoniousrecords.com. 
-<br> Fix Algorithm
+
 
