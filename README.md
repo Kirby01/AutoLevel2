@@ -1,3 +1,2 @@
-Basic compressor using two modified envelopes. Suit Channel compression: eg instruments.
-
+Compressor with input, output, gamma, theta, timing sliders. Suit Bass Guitar maybe abit like LA-2A. 
 
